@@ -1,0 +1,23 @@
+<h3 id="summary-problem-motivation">Problem/Motivation</h3>
+(Why the issue was filed, steps to reproduce the problem, etc.)
+
+<h3 id="summary-proposed-resolution">Proposed resolution</h3>
+(Description of the proposed solution, the rationale behind it, and workarounds for people who cannot use the patch.)
+
+<h3 id="summary-remaining-tasks">Remaining tasks</h3>
+(reviews needed, tests to be written or run, documentation to be written, etc.)
+
+<h3 id="summary-ui-changes">User interface changes</h3>
+(New or changed features/functionality in the user interface, modules added or removed, changes to URL paths, changes to user interface text.)
+
+<h3 id="summary-api-changes">API changes</h3>
+(API changes/additions that would affect module, install profile, and theme developers, including examples of before/after code if appropriate.)
+
+<h3 id="summary-data-model-changes">Data model changes</h3>
+(Database or configuration data changes that would make stored data on an existing site incompatible with the site's updated codebase, including changes to hook_schema(), configuration schema or keys, or the expected format of stored data, etc.)
+
+<h3 id="summary-release-notes">Release notes snippet</h3>
+(Major and critical issues should have a snippet that can be pulled into the release notes when a release is created that includes the fix)
+
+<h3 id="summary-original-report">Original report by [username]</h3>
+(Text of the original report, for legacy issues whose initial post was not the issue summary. Use rarely.)
